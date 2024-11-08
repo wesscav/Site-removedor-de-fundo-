@@ -4,7 +4,7 @@ import io
 from IPython.display import display
 
 imagem = Image.open('imagens\teste.jpg')
-
+#teste sa
 #tratamento da imagem:
 
 #rotacao da imagem
